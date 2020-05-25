@@ -4,6 +4,7 @@
 
 if ($balans1 == $balans2) {
     echo "in balans" ;
+    
 } 
 
 else {
